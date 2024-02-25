@@ -80,4 +80,4 @@ If you encounter any issues or bugs, please [open an issue](https://github.com/a
 GPL-3.0 license
 ```
 
-Make sure to replace `<repository-url>` with the URL of your GitHub repository. This README.md file provides detailed instructions on setting up the project, usage guidelines, project structure, contributing guidelines, issue reporting, and licensing information. Adjust the content as needed based on your project's specifics.
+
